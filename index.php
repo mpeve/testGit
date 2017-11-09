@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<h1>on utilise Git</h1>
+	<h1>dirchfjjjj</h1>
 	<div class="contenairer">
 		<div class="row">
 			<?php echo'nous sommes le '.
